@@ -1,0 +1,26 @@
+{
+  "name": "dcp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmed/dcp.git"
+  },
+  "author": "Dejon Gill <dejonjgill@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/itsmed/dcp/issues"
+  },
+  "homepage": "https://github.com/itsmed/dcp#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
